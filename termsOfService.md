@@ -214,7 +214,7 @@ We reserve the right, but not the obligation, to:
 
 PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy [License Aggreement](https://bafkreia5h5nnqqkphckzo7fad3ngperhhsd33zppuccuqnlxx4qxtghsku.ipfs.nftstorage.link/). By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Service. Please be advised the Site is hosted in the United States.
+We care about data privacy and security. Please review our Privacy Policy [License Agreement](https://bafkreia5h5nnqqkphckzo7fad3ngperhhsd33zppuccuqnlxx4qxtghsku.ipfs.nftstorage.link/). By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Service. Please be advised the Site is hosted in the United States.
 
 If you access the Site from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
 
